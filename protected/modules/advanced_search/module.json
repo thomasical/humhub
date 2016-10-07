@@ -1,0 +1,11 @@
+{
+    "id": "advanced_search",
+    "name": "Advanced Search",
+    "description": "Allows advanced search.",
+    "keywords": [],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.0.1"
+    },
+     "screenshots": ["assets/screen1.jpg", "assets/screen2.jpg", "assets/screen3.jpg"]
+}
