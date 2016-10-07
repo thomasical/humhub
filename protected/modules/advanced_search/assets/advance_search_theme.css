@@ -1,0 +1,8 @@
+ul#search-menu-nav li a.advanced-search {
+    width: 90px; 
+    padding: 4px 0px !important;
+}
+.search-btn-button{
+    display: block;
+    text-align: right;
+}
