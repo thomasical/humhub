@@ -1,0 +1,11 @@
+{
+    "id": "llinkedin",
+    "name": "Sign in with LinkedIn mod",
+    "description": "Linkedin sign-in sign-up",
+    "keywords": ["Linkedin"],
+    "version": "0.9.1",
+    "humhub": {
+        "minVersion": "1.0"
+    },
+    "screenshots": ["assets/screen1.jpg"]
+}
